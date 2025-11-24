@@ -6,7 +6,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=2500&pause=800&color=00D1FF&width=600&lines=Java+Developer;Minecraft+Mods+%26+Custom+Tools;Cloud+Computing+Learner;Cyber+Security+Enthusiast)](https://git.io/typing-svg)
 
-<img align="right" height="170" src="https://i.imgflip.com/65efzo.gif" alt="coding gif" />
+<img align="right" height="170" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzNhY2cwcGI4Z3M3YmgxbGdpNWJuMGw0bzQ0bjI2eGx4dTYzdWQ1cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mcsPU3SkKrYDdW3aAU/giphy.gif" alt="coding gif" />
 
 ---
 
